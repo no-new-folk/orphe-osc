@@ -1,4 +1,4 @@
-# sip osc server
+# osc server
 
 To install dependencies:
 
